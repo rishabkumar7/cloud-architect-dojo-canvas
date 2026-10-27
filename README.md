@@ -10,6 +10,17 @@ Instead of presenting another static diagram or quiz, the dojo puts learners in 
 4. Watch latency, availability, throughput, and cost respond.
 5. Complete concept checkpoints with explanations—not just a grade.
 
+## Learn with the guide and the canvas
+
+Start with the **[System Design Handbook](SYSTEM_DESIGN_GUIDE.md)** for curated explanations, diagrams, estimation techniques, review checklists, and practical tradeoff tables. Then open the canvas to assemble the architecture, apply incidents, and test whether your mental model survives.
+
+| Resource | Best for |
+|---|---|
+| **[System Design Handbook](SYSTEM_DESIGN_GUIDE.md)** | Building a durable mental model and reviewing concepts at your own pace |
+| **Cloud Architect Dojo canvas** | Practicing decisions, observing failure behavior, and completing scenario checkpoints |
+
+The handbook maps every major topic back to the four dojo missions and includes suggested experiments for each scenario.
+
 ## Learning missions
 
 | Mission | Level | Focus |
